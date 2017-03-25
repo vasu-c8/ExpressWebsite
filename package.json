@@ -1,0 +1,22 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "A simple project to learn express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vasu_c@bitbucket.org/vasu_c/expresswebsite.git"
+  },
+  "author": "Vasundhara Chimmad <vasudha.c8@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/vasu_c/expresswebsite#readme",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jade": "*",
+    "nodemailer": "*"
+  }
+}
